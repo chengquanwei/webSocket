@@ -2,18 +2,6 @@
 	滚动条置底，并清除多余代码
 
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 错误记录：
 	String path=ClassUtils.getDefaultClassLoader().getResource("/").getPath()+propertiesPath;
 		/*	若此处报java.lang.NoClassDefFoundError: org/springframework/util/ClassUtils错误
